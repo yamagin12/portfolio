@@ -1,0 +1,116 @@
+.logo{
+  font-weight: 800;
+}
+
+.can_title{
+  font-size: 20px;
+  font-weight: 100;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.keyVisual{
+  width: 540px;
+  margin-bottom: 18px;
+  padding: 2px;
+  border: solid 1px;
+  text-align: center;
+}
+
+.sub-title{
+  background: lightblue;
+  margin: 16px;
+  padding: 8px;
+  font-weight: 500;
+}
+
+.text-color{
+  color: #000000;
+}
+
+.self-introduction{
+  
+}
+
+
+
+.link_twitter{
+  width: 48px;
+  height: 48px;
+  border-radius: 8px;
+}
+
+.box-shadow{
+  box-shadow: 0 0 20px rgba(0, 0, 0, .3);
+}
+
+body{
+  margin: 0;
+  background-color: #ffffff;
+}
+
+header{
+  background: #ffffff;
+  border-bottom:solid 1px #000000;
+}
+
+.link-button{
+  display: inline-block;
+  color: rgb(244, 244, 255);
+  text-decoration: none;
+  width: 200px;
+  height: 100px;
+  border-radius: 5px;
+  line-height: 100px;
+  font-size: 32px;
+}
+
+.Unity{
+  background: #ffffff;
+}
+
+
+
+.Blender{
+  background: #ffffff;
+}
+
+.priceWrapper table,
+.priceWrapper th,
+.priceWrapper td{
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+.priceWrapper th,
+.priceWrapper td{
+  padding: 7px;
+}
+
+.priceWrapper table{
+  width: 100%;
+}
+
+.priceWrapper th{
+  width: 150px;
+  background: #eee;
+}
+
+.container{
+  display:flex;
+  align-items: center;
+}
+
+.headerInner{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.headerInner,.mainInner{
+  max-width: 650px;
+  margin: auto;
+  padding: 0 20;  
+}
